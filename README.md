@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @sananbadalov
 - 👀 I’m interested in web development and everything about it...
-- 🌱 I currently learn JS.
-- 💞️ I’m looking to collaborate on any project relevant to it...
 - 📫 How to reach me :sanansbadalov@protonmail.com
 
 <!---
